@@ -56,4 +56,3 @@ export default function SearchBar({ onSubmit }: SearchBarProps) {
     </header>
   );
 }
-
